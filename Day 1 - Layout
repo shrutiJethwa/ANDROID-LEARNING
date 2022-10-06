@@ -1,0 +1,16 @@
+Linear Layout
+LinearLayout is a view group that aligns all children in a single direction, vertically or horizontally.
+
+Relative Layout
+RelativeLayout is a view group that displays child views in relative positions.
+
+When to use a Linear Layout in Android Studio?
+Use Linear Layout when you want group of widgets to be aligned in one direction. Linear Layout will be an ideal choice while designing a form.
+
+There are two types of linear layout orientatons: vertical orientation and horizontal orientation. Linear layout also supports layout_weight attribute for its children individually (each child has its own layout_weight attribute), larger the value of a widget’s  layout_weight more will be the space taken by that widget.
+
+When to use a Relative Layout in Android Studio?
+Use Relative Layout when you want  widgets to be in a relative position to siblings (other widgets within the same relative layout). Relative layout is a bit complex to use and is not used by developers these days.
+
+Which of the layouts (Linear/Relative/Constraint) is better?
+Each Layout has its own benefits but when it comes to dynamic and responsive views you should always choose Constraint Layout. Constarint Layout was added to Android Studio 2.2 in 2016 and it became the default layout of Android Studio because of its simplicity and ease of creating complex layouts.
