@@ -5,5 +5,7 @@ Here i will post all the projects and basics of andoid.
     ◾IDE: Android studio
 
 Day 1:
+
 Types of Layout
+
 creating Activity
