@@ -14,3 +14,5 @@ Use Relative Layout when you want  widgets to be in a relative position to sibli
 
 Which of the layouts (Linear/Relative/Constraint) is better?
 Each Layout has its own benefits but when it comes to dynamic and responsive views you should always choose Constraint Layout. Constarint Layout was added to Android Studio 2.2 in 2016 and it became the default layout of Android Studio because of its simplicity and ease of creating complex layouts.
+
+
